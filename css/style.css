@@ -578,3 +578,7 @@ ul.property-box2{margin-top:44px;}
 .list--min > li{
   padding: 5px 0px;
 }
+
+.list--spaced li{
+  margin-bottom: 15px;
+}
