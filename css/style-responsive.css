@@ -1,0 +1,2659 @@
+.menu-toggle {
+    display: none;
+}
+@media only screen and (max-width: 1600px) {
+    .caption p {
+        width: 100%;
+    }
+    .projects {
+        padding-top: 133px;
+    }
+}
+@media only screen and (max-width: 1400px) {
+
+    .logo__image{
+    	height: auto;
+    	max-width: 180px;
+    }
+
+    .wrapper,
+    .past-grant .wrapper {
+        width: 1200px;
+    }
+    nav ul li {
+        margin-right: 19px;
+    }
+    .news-press {
+        padding: 130px 0 90px;
+    }
+    .news-press h2 {
+        margin-bottom: 110px;
+    }
+    .past-grant {
+        padding: 110px 0 90px;
+    }
+    .past-grant h2 {
+        margin-bottom: 130px;
+    }
+    .past-grant .box {
+        width: 47%;
+        margin-right: 70px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 38px;
+    }
+    .past-grant .box h4 {
+        font-size: 45px;
+    }
+    .programs {
+        padding-top: 90px;
+    }
+    .programs .programs-left h2 {
+        margin-bottom: 40px;
+    }
+    .contact-banner .contact-from {
+        height: 900px;
+    }
+    .property {
+        padding: 80px 0 90px;
+    }
+    .property-box {
+        padding-bottom: 77px;
+    }
+    ul.property-box2 {
+        margin-top: 34px;
+    }
+    .availabilities ul li span {
+        padding-bottom: 41px;
+    }
+    .banner-inner {
+        top: 24%;
+    }
+    .grants {
+        padding: 50px 0 180px;
+    }
+    .projects {
+        padding-top: 123px;
+    }
+    .financials {
+        padding: 163px 0 170px;
+    }
+    .financials h2 {
+        margin-bottom: 110px;
+    }
+    .faq {
+        padding-top: 130px;
+    }
+    .faq ul {
+        padding-top: 90px;
+    }
+    .blog {
+        padding-top: 110px;
+    }
+    .blog-box .share-box .btn {
+        width: 580px;
+    }
+    .availabilities {
+        padding: 40px 0 0;
+    }
+    .availabilities p {
+        padding-top: 80px;
+        line-height: 45px;
+    }
+    .availabilities ul {
+        margin-top: 42px;
+    }
+    .about-us {
+        padding: 107px 0 70px;
+    }
+    .about-us .about-box h2 {
+        margin-bottom: 36px;
+    }
+    .about-us .about-box p {
+        padding-bottom: 24px;
+    }
+    .architecture-box {
+        padding-top: 50px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        padding-top: 110px;
+    }
+    .grant-application {
+        padding-top: 70px;
+    }
+    .grant-application h2 {
+        padding-bottom: 52px;
+    }
+    .grant-application .btn {
+        margin: 62px 0;
+    }
+    .rental-application {
+        padding: 136px 0 125px;
+    }
+    .rental-application h2 {
+        padding-bottom: 90px;
+    }
+    .contact-application {
+        padding-top: 52px;
+    }
+    .contact-application .btn {
+        height: 74px;
+        line-height: 74px;
+        width: 273px;
+    }
+    .about-us .history {
+        margin-top: 290px;
+    }
+    .board-staff ul li {
+        width: 31.10%;
+        margin-right: 40px;
+    }
+}
+@media only screen and (max-width: 1260px) {
+
+    .logo__image{
+    	height: auto;
+    	max-width: 180px;
+    }
+
+    .wrapper,
+    .past-grant .wrapper,
+    .property .wrapper,
+    .grants .wrapper,
+    .faq .wrapper,
+    .blog .wrapper,
+    .architecture-box .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    nav ul li {
+        margin-right: 12px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 28px;
+    }
+    .social-icon {
+        padding-top: 35px;
+    }
+    .social-icon span {
+        font-size: 19px;
+    }
+    .social-icon p {
+        font-size: 19px;
+        width: 100%;
+        margin-top: 17px;
+    }
+    .social-icon2 {
+        padding-top: 35px;
+    }
+    .social-icon2 p {
+        width: 100%;
+        font-size: 19px;
+        margin-top: 17px;
+    }
+    .social-icon2 span {
+        font-size: 19px;
+    }
+    .news-press {
+        padding: 115px 0 80px;
+    }
+    .news-press h2 {
+        margin-bottom: 100px;
+    }
+    .caption2 {
+        height: auto;
+    }
+    .news-press ul li {
+        margin-right: 56px;
+    }
+    .news-press .wrapper {
+        padding: 0;
+    }
+    .past-grant {
+        padding: 90px 0 80px;
+    }
+    .past-grant h2 {
+        margin-bottom: 110px;
+    }
+    .past-grant .box {
+        width: 47%;
+        margin-right: 66px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 38px;
+    }
+    .past-grant .box h4 {
+        font-size: 41px;
+    }
+    .programs {
+        padding-top: 80px;
+    }
+    .programs .programs-left h2 {
+        margin-bottom: 25px;
+    }
+    .programs .programs-left {
+        width: 60%;
+    }
+    .programs .programs-left p {
+        margin-bottom: 35px;
+    }
+    .programs .programs-left .box {
+        margin-bottom: 30px;
+    }
+    .programs .programs-right span {
+        padding: 30px 60px;
+        margin-bottom: 24px;
+    }
+    .property {
+        padding: 60px 0;
+    }
+    .property .property-left .btn {
+        height: 58px;
+        line-height: 69px;
+        margin-top: 43px;
+        width: 353px;
+    }
+    .property .property-left h2 {
+        margin-bottom: 25px;
+    }
+    .property-box {
+        padding-bottom: 60px;
+    }
+    ul.property-box2 {
+        margin-top: 20px;
+    }
+    .availabilities ul li span {
+        padding-bottom: 41px;
+        font-size: 25px;
+        padding-top: 24px;
+    }
+    .banner-inner {
+        top: 0%;
+    }
+    .historic .caption {
+        font-size: 42px;
+    }
+    .grants {
+        padding: 40px 0 170px;
+    }
+    .grants h2 {
+        margin-bottom: 70px;
+    }
+    .grants-left {
+        width: 65%;
+    }
+    .grants img {
+        margin-bottom: 70px;
+    }
+    .grants .btn {
+        width: 467px;
+        height: 95px;
+        line-height: 92px;
+    }
+    .projects {
+        padding-top: 113px;
+    }
+    .financials {
+        padding: 120px 0 123px;
+    }
+    .financials h2 {
+        margin-bottom: 70px;
+    }
+    .financials span {
+        font-size: 32px;
+    }
+    .financials p {
+        padding-top: 33px;
+    }
+    .faq {
+        padding-top: 100px;
+    }
+    .faq ul {
+        padding-top: 80px;
+    }
+    .faq ul li h2 {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .faq ul li {
+        margin-bottom: 70px;
+    }
+    .blog {
+        padding-top: 80px;
+    }
+    .blog-box .share-box .btn {
+        width: 509px;
+        margin: 60px 0;
+    }
+    .slider-blog .slick-prev,
+    .slider-blog .slick-next {
+        background-size: 30px;
+    }
+    .blog-box h2 {
+        margin-bottom: 24px;
+        margin-top: 80px;
+    }
+    .blog-box .share-box {
+        padding-top: 28px;
+    }
+    .blog-box .share-box small {
+        padding-top: 35px;
+    }
+    .twitter-box p {
+        font-size: 33px;
+        margin-left: 44px;
+    }
+    .twitter-box {
+        padding: 89px 0 78px;
+    }
+    .blog h2 {
+        margin-bottom: 47px;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 37px;
+        padding-top: 59px;
+    }
+    .availabilities ul {
+        margin-top: 35px;
+    }
+    .architecture-box {
+        padding-top: 40px;
+    }
+    .architecture .caption {
+        font-size: 70px;
+    }
+    .architecture-box3 .caption {
+        font-size: 65px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        padding-top: 88px;
+    }
+    .grant-application {
+        padding-top: 57px;
+    }
+    .grant-application h2 {
+        padding-bottom: 38px;
+    }
+    .grant-application .btn {
+        margin: 48px 0;
+    }
+    .frequently_aw_form .submit {
+        height: 80px;
+        line-height: 80px;
+        width: 260px;
+    }
+    .rental-application {
+        padding: 116px 0 115px;
+    }
+    .rental-application h2 {
+        padding-bottom: 70px;
+    }
+    .contact-application {
+        padding-top: 52px;
+    }
+    .contact-application .btn {
+        height: 67px;
+        line-height: 67px;
+        width: 249px;
+    }
+    .contact-application .f-col {
+        width: 31.6%;
+    }
+    .contact-application .f-co2 {
+        width: 62%;
+    }
+    .contact-application .f-co4 {
+        width: 58%;
+    }
+    .contact-application .f-co5 {
+        width: 40%;
+    }
+    .willard .willard-box {
+        margin-top: 55px;
+    }
+    .about-us .history::before {
+        display: none;
+    }
+    .about-us .history {
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+    .board-staff {
+        margin-top: 196px;
+    }
+    .board-staff ul li {
+        margin-right: 37px;
+    }
+    .about-us .history .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .about-us .history h2 {
+        margin-bottom: 42px;
+    }
+    .board-staff ul li p {
+        margin-top: 30px;
+    }
+    .about-us {
+        padding: 90px 0 40px;
+    }
+    .availabilities ul li {
+        margin-bottom: 34px;
+    }
+    .inner-section img {
+        height: 640px;
+        width: 100%;
+    }
+    .banner-inner .caption p {
+        padding-top: 35px;
+    }
+    .banner-inner .scroll_down img {
+        margin-top: 30px;
+    }
+}
+@media only screen and (max-width: 1149px) {
+
+    .logo__image{
+    	height: auto;
+    	max-width: 150px;
+    }
+
+    nav ul li {
+        margin-right: 6px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 25px;
+    }
+    .social-icon span,
+    .social-icon2 span {
+        font-size: 17px;
+    }
+    .social-icon p,
+    .social-icon2 p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .contact-banner .contact-from {
+        height: 760px;
+    }
+    .news-press {
+        padding: 100px 0 70px;
+    }
+    .news-press h2 {
+        margin-bottom: 80px;
+    }
+    .news-press ul li {
+        margin-right: 52px;
+    }
+    h2 {
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .news-press .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .past-grant {
+        padding: 80px 0 70px;
+    }
+    .past-grant h2 {
+        margin-bottom: 90px;
+    }
+    .past-grant .box {
+        width: 47%;
+        margin-right: 60px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 24px;
+    }
+    .past-grant .box h4 {
+        font-size: 38px;
+        padding: 17px 0 17px 28px;
+    }
+    .programs {
+        padding-top: 70px;
+    }
+    .programs .programs-left h2 {
+        margin-bottom: 20px;
+    }
+    .programs .programs-left {
+        width: 60%;
+    }
+    .programs .programs-left p {
+        margin-bottom: 20px;
+    }
+    .programs .programs-left .box {
+        margin-bottom: 19px;
+    }
+    .programs .programs-right span {
+        padding: 25px 60px;
+        margin-bottom: 24px;
+        font-size: 22px;
+    }
+    .programs .programs-right {
+        width: 37%;
+    }
+    .income-limits h5 {
+        font-size: 27px;
+    }
+    .property {
+        padding: 60px 0 50px;
+    }
+    .property .property-left .btn {
+        height: 50px;
+        line-height: 60px;
+        margin-top: 33px;
+        width: 320px;
+    }
+    .property .property-left h2 {
+        margin-bottom: 25px;
+    }
+    .property .property-left {
+        width: 66%;
+    }
+    .property .property-right small {
+        font-size: 28px;
+    }
+    .property .property-right {
+        width: 30%;
+        padding: 26px 22px 10px;
+    }
+    .banner-inner {
+        top: 14%;
+    }
+    .availabilities ul li {
+        margin-bottom: 30px;
+    }
+    .property-box {
+        padding-bottom: 50px;
+    }
+    .availabilities ul li span {
+        font-size: 22px;
+        padding-bottom: 35px;
+        padding-top: 20px;
+    }
+    .caption2 span {
+        margin-bottom: 66px;
+    }
+    .historic .caption {
+        font-size: 37px;
+    }
+    .grants {
+        padding: 40px 0 160px;
+    }
+    .grants h2 {
+        margin-bottom: 60px;
+    }
+    .grants img {
+        margin-bottom: 60px;
+    }
+    .grants .btn {
+        width: 431px;
+        height: 95px;
+        line-height: 92px;
+    }
+    .grants-right {
+        width: 33%;
+    }
+    .projects {
+        padding-top: 103px;
+    }
+    .financials {
+        padding: 90px 0 103px;
+    }
+    .financials h2 {
+        margin-bottom: 50px;
+    }
+    .financials span {
+        font-size: 28px;
+    }
+    .financials p {
+        padding-top: 30px;
+        line-height: 28px;
+    }
+    .faq {
+        padding-top: 90px;
+    }
+    .faq ul {
+        padding-top: 60px;
+    }
+    .faq ul li h2 {
+        font-size: 28px;
+        margin-bottom: 13px;
+    }
+    .faq ul li {
+        margin-bottom: 50px;
+    }
+    .blog {
+        padding-top: 60px;
+    }
+    .blog-box .share-box .btn {
+        width: 439px;
+        margin: 37px 0;
+    }
+    .slider-blog .slick-prev,
+    .slider-blog .slick-next {
+        background-size: 25px;
+    }
+    .blog-box h2 {
+        margin-bottom: 24px;
+        margin-top: 80px;
+    }
+    .blog-box .share-box {
+        padding-top: 28px;
+    }
+    .blog-box .share-box small {
+        padding-top: 22px;
+    }
+    .twitter-box p {
+        font-size: 31px;
+        margin-left: 35px;
+    }
+    .twitter-box {
+        padding: 75px 0 52px;
+    }
+    .blog h2 {
+        margin-bottom: 30px;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 35px;
+        padding-top: 36px;
+    }
+    .availabilities ul {
+        margin-top: 30px;
+    }
+    .architecture-box {
+        padding-top: 30px;
+    }
+    .architecture .caption {
+        font-size: 60px;
+    }
+    .architecture-box3 .caption {
+        font-size: 60px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        padding-top: 70px;
+    }
+    .grant-application {
+        padding-top: 50px;
+    }
+    .grant-application h2 {
+        padding-bottom: 29px;
+    }
+    .grant-application .btn {
+        height: 49px;
+        line-height: 46px;
+        width: 231px;
+    }
+    .frequently_aw_form {
+        margin-bottom: 80px;
+    }
+    .rental-application {
+        padding: 90px 0;
+    }
+    .rental-application h2 {
+        padding-bottom: 45px;
+    }
+    .contact-application .f-col {
+        width: 31.6%;
+    }
+    .willard .willard-box {
+        margin-top: 43px;
+    }
+    .willard {
+        padding-bottom: 60px;
+    }
+    .about-us {
+        padding: 54px 0 40px;
+    }
+    .about-us .about-box p {
+        padding-bottom: 14px;
+    }
+    .about-us .history p {
+        padding-top: 25px;
+        width: 100%;
+    }
+    .board-staff ul {
+        padding-top: 51px;
+    }
+    .board-staff ul li {
+        margin-right: 33px;
+    }
+    .board-staff ul li p {
+        margin-top: 15px;
+    }
+    .blog-box {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 1049px) {
+    .inner-section img {
+        height: auto;
+    }
+
+    .logo__image{
+    	height: auto;
+    	max-width: 150px;
+    }
+
+    nav ul li {
+        margin-right: 2px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 22px;
+    }
+    .slick-prev {
+        left: 17px;
+    }
+    .slick-next {
+        right: 17px;
+    }
+    .social-icon p,
+    .social-icon2 p {
+        width: 84%;
+    }
+    nav ul {
+        margin-top: 20px;
+    }
+    .news-press {
+        padding: 90px 0 70px;
+    }
+    .news-press h2 {
+        margin-bottom: 60px;
+    }
+    .news-press ul li {
+        margin-right: 49px;
+        margin-bottom: 50px;
+    }
+    .contact-banner .contact-from {
+        height: 600px;
+    }
+    h2 {
+        font-size: 41px;
+        line-height: 41px;
+    }
+    .past-grant {
+        padding: 70px 0 60px;
+    }
+    .past-grant h2 {
+        margin-bottom: 70px;
+    }
+    .past-grant .box {
+        width: 48%;
+        margin-right: 37px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 20px;
+    }
+    .past-grant .box h4 {
+        font-size: 32px;
+        padding: 15px 0 15px 23px;
+    }
+    .programs {
+        padding-top: 60px;
+    }
+    .programs .programs-left h2 {
+        margin-bottom: 20px;
+    }
+    .programs .programs-left {
+        width: 60%;
+    }
+    .programs .programs-left p {
+        margin-bottom: 20px;
+    }
+    .programs .programs-left .box {
+        margin-bottom: 19px;
+    }
+    .programs .programs-right span {
+        padding: 25px 57px;
+        margin-bottom: 24px;
+        font-size: 22px;
+    }
+    .programs .programs-right {
+        width: 37%;
+    }
+    .income-limits h5 {
+        font-size: 27px;
+    }
+    .property {
+        padding: 60px 0 40px;
+    }
+    .property .property-left h2 {
+        margin-bottom: 20px;
+    }
+    .property .property-left {
+        width: 64%;
+    }
+    .property .property-right small {
+        font-size: 27px;
+    }
+    .property .property-right {
+        width: 32%;
+        padding: 26px 22px 10px;
+    }
+    .property .property-left .btn {
+        height: 45px;
+        line-height: 53px;
+        margin-top: 24px;
+        width: 285px;
+        font-size: 22px;
+    }
+    .availabilities ul li {
+        margin-bottom: 25px;
+    }
+    .historic .caption {
+        font-size: 33px;
+    }
+    .grants {
+        padding: 40px 0 120px;
+    }
+    .grants h2 {
+        margin-bottom: 40px;
+    }
+    .grants img {
+        margin-bottom: 40px;
+    }
+    .grants .btn {
+        height: 69px;
+        line-height: 69px;
+        width: 358px;
+        margin-top: 45px;
+    }
+    .grants-right {
+        width: 33%;
+    }
+    .grants-left p {
+        margin-bottom: 23px;
+    }
+    .grants-right .past-grants {
+        padding: 25px 26px 13px;
+    }
+    .projects {
+        padding-top: 90px;
+    }
+    .financials {
+        padding: 70px 0 90px;
+    }
+    .financials h2 {
+        margin-bottom: 35px;
+    }
+    .financials span {
+        font-size: 28px;
+    }
+    .financials p {
+        padding-top: 22px;
+        line-height: 28px;
+    }
+    p {
+        font-size: 17px;
+    }
+    .faq {
+        padding-top: 70px;
+    }
+    .faq ul {
+        padding-top: 40px;
+    }
+    .faq ul li h2 {
+        font-size: 28px;
+        margin-bottom: 11px;
+    }
+    .faq ul li {
+        margin-bottom: 40px;
+    }
+    .blog {
+        padding-top: 44px;
+    }
+    .blog h2 {
+        margin-bottom: 22px;
+        margin-top: 50px;
+    }
+    .blog-box {
+        width: 100%;
+    }
+    .blog-box .share-box .btn {
+        margin: 30px 0;
+        height: 60px;
+        line-height: 55px;
+        font-size: 22px;
+    }
+    .twitter-box i {
+        font-size: 84px;
+    }
+    .twitter-box p {
+        font-size: 30px;
+    }
+    .twitter-box {
+        padding: 50px 0;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 35px;
+        padding-top: 30px;
+    }
+    .availabilities ul {
+        margin-top: 30px;
+    }
+    .architecture-box {
+        padding-top: 25px;
+    }
+    .architecture .caption {
+        font-size: 50px;
+    }
+    .architecture-box3 .caption {
+        font-size: 50px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        padding-top: 50px;
+    }
+    .contact-banner .contact-from .social {
+        width: 100%;
+        text-align: center;
+    }
+    .contact-banner .contact-from .social a {
+        float: none;
+    }
+    .grant-application .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .grant-application {
+        padding-top: 37px;
+    }
+    .grant-application .btn {
+        margin: 36px 0;
+    }
+    .frequently_aw_form .submit {
+        height: 72px;
+        line-height: 76px;
+        width: 247px;
+        margin-top: 44px;
+    }
+    .frequently_aw_form {
+        margin-bottom: 70px;
+    }
+    .rental-application .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .contact-application .f-col {
+        width: 31.5%;
+    }
+    .contact-application .f-co2 {
+        width: 60%;
+    }
+    .rental-application {
+        padding: 60px 0;
+    }
+    .rental-application h2 {
+        padding-bottom: 29px;
+    }
+    .contact-application {
+        padding-top: 30px;
+    }
+    .contact-application .btn {
+        height: 63px;
+        line-height: 63px;
+        width: 230px;
+    }
+    .willard .willard-box {
+        margin-top: 31px;
+    }
+    .about-us {
+        padding: 29px 0 30px;
+    }
+    .about-us .about-box h2 {
+        margin-bottom: 16px;
+    }
+    .about-us .about-box .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .about-us .history p {
+        width: 100%;
+        padding-top: 13px;
+    }
+    .board-staff ul li {
+        margin-right: 31px;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .menu-toggle {
+        display: block;
+        float: right;
+        padding: 10px 10px 2px 10px;
+        margin-top: 13px;
+    }
+    .menu-toggle > small {
+        font-size: 13px;
+        color: #000;
+        font-size: 13px;
+        font-weight: 700;
+    }
+    .menu-toggle span {
+        width: 21px;
+        border-bottom: solid 3px #fff;
+        float: right;
+        clear: right;
+        margin-bottom: 6px;
+        margin-top: -2px;
+    }
+    .main-menu {
+        display: none;
+    }
+    nav ul li {
+        display: block;
+        padding: 0px;
+        text-align: left;
+        none repeat scroll 0 0;
+        margin: 0;
+        border-bottom: 1px solid #b3070c;
+    }
+    nav ul li a {
+        display: block;
+        padding: 10px;
+        color: #fff;
+    }
+    nav ul li a:hover {
+        background: #fff;
+        border-radius: 0;
+        color: #000;
+    }
+    nav ul {
+        width: 100%;
+        display: none;
+        margin-top: 0;
+    }
+    .logo {
+        float: left;
+        margin-bottom: 10px;
+    }
+    .caption {
+        font-size: 21px;
+    }
+    .slick-prev {
+        left: 14px;
+    }
+    .slick-next {
+        right: 14px;
+    }
+    .caption-icon img {
+        margin-top: 47px;
+        width: 45px;
+        height: 45px;
+    }
+    .social-icon {
+        padding-top: 18px;
+    }
+    .social-icon i,
+    .social-icon2 i {
+        margin-bottom: 16px;
+    }
+    .social-icon2 p {
+        margin-top: 9px;
+    }
+    .social-icon p {
+        margin-top: 10px;
+    }
+    .news-press {
+        padding: 80px 0 60px;
+    }
+    .news-press h2 {
+        margin-bottom: 50px;
+    }
+    .news-press ul li {
+        margin-right: 41px;
+        margin-bottom: 41px;
+    }
+    h2 {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .news-press ul li span {
+        margin-top: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .past-grant {
+        padding: 50px 0 50px;
+    }
+    .past-grant h2 {
+        margin-bottom: 40px;
+    }
+    .past-grant .box {
+        width: 48%;
+        margin-right: 30px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 20px;
+    }
+    .past-grant .box h4 {
+        font-size: 29px;
+        padding: 13px 0 13px 20px;
+    }
+    .programs {
+        padding-top: 50px;
+    }
+    .programs .programs-right span {
+        font-size: 19px;
+        margin-bottom: 16px;
+        padding: 22px 44px;
+    }
+    .income-limits h5 {
+        font-size: 25px;
+        padding: 10px 0 14px;
+    }
+    .programs .programs-left p {
+        line-height: 26px;
+    }
+    .programs .programs-left .box {
+        margin-bottom: 16px;
+    }
+    .property .property-left h2 {
+        margin-bottom: 10px;
+    }
+    .property .property-left {
+        width: 60%;
+    }
+    .property .property-right {
+        width: 38%;
+        padding: 20px 16px 10px;
+    }
+    .property .property-right ul li {
+        width: 90%;
+    }
+    .caption2 {
+        font-size: 40px;
+    }
+    .availabilities ul li {
+        margin-bottom: 20px;
+    }
+    .caption2 p {
+        width: 90%;
+    }
+    .availabilities ul li span {
+        font-size: 19px;
+        padding-bottom: 25px;
+        padding-top: 15px;
+    }
+    .availabilities ul li span small {
+        font-size: 15px;
+    }
+    .caption2 span {
+        margin-bottom: 46px;
+    }
+    .banner-inner img {
+        margin-top: 33px;
+    }
+    .historic .caption {
+        font-size: 30px;
+    }
+    .banner-inner .caption {
+        margin-top: 0;
+    }
+    .banner-inner .caption p {
+        padding-top: 20px;
+        width: 90%;
+    }
+    .banner-inner .caption {
+        font-size: 40px;
+    }
+    .contact-banner .contact-from {
+        height: 500px;
+    }
+    .grants {
+        padding: 40px 0 110px;
+    }
+    .grants h2 {
+        margin-bottom: 35px;
+    }
+    .grants img {
+        margin-bottom: 35px;
+    }
+    .grants-right span {
+        font-size: 22px;
+        padding: 21px 0;
+    }
+    .grants-right .past-grants ul {
+        margin-top: 8px;
+    }
+    .grants-right .past-grants ul li {
+        margin-bottom: 10px;
+    }
+    .grants .btn {
+        height: 57px;
+        line-height: 56px;
+        margin-top: 36px;
+        width: 293px;
+        font-size: 22px;
+    }
+    .projects {
+        padding-top: 80px;
+    }
+    .financials {
+        padding: 60px 0 80px;
+    }
+    .financials h2 {
+        margin-bottom: 25px;
+    }
+    .financials span {
+        font-size: 25px;
+    }
+    .financials p {
+        padding-top: 18px;
+        line-height: 26px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .faq {
+        padding-top: 60px;
+    }
+    .faq ul {
+        padding-top: 35px;
+    }
+    .faq ul li h2 {
+        font-size: 26px;
+        margin-bottom: 5px;
+    }
+    .faq ul li {
+        margin-bottom: 20px;
+    }
+    .blog {
+        padding-top: 0;
+    }
+    .blog h2 {
+        margin-top: 44px;
+    }
+    .blog-box .share-box .btn {
+        margin: 26px 0;
+        height: 55px;
+        line-height: 48px;
+        width: 400px;
+    }
+    .twitter-box p {
+        font-size: 24px;
+        line-height: 27px;
+    }
+    .twitter-box {
+        padding: 40px 0;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 32px;
+        padding-top: 25px;
+    }
+    .availabilities ul {
+        margin-top: 20px;
+    }
+    .architecture-box {
+        padding-top: 21px;
+    }
+    .architecture .caption {
+        font-size: 40px;
+    }
+    .architecture-box3 .caption {
+        font-size: 40px;
+    }
+    .architecture-box3 .caption span {
+        font-size: 25px;
+    }
+    .architecture-box2 .wrapper > div {
+        padding: 11px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        padding-top: 40px;
+        margin-bottom: 26px;
+    }
+    .contact-banner .contact-from .social a {
+        margin-right: 71px;
+    }
+    .grant-application {
+        padding-top: 29px;
+    }
+    .grant-application h2 {
+        padding-bottom: 16px;
+    }
+    .grant-application .btn {
+        margin: 26px 0;
+    }
+    .frequently_aw_form .submit {
+        height: 66px;
+        line-height: 67px;
+        margin-top: 30px;
+        width: 235px;
+    }
+    .frequently_aw_form {
+        margin-bottom: 50px;
+    }
+    .contact-application .f-col {
+        width: 32.5%;
+        margin-right: 9px;
+    }
+    .contact-application .f-co2 {
+        width: 54%;
+    }
+    .contact-application input[type="text"],
+    textarea {
+        margin-bottom: 15px;
+    }
+    .willard .willard-box .wrapper,
+    .willard .willard-box2 .wrapper {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .willard .willard-box ul li {
+        font-size: 17px;
+    }
+    .about-us {
+        padding: 19px 0 24px;
+    }
+    .about-us .about-box p {
+        padding-bottom: 6px;
+        line-height: 28px;
+    }
+    .about-us .history h2 {
+        margin-bottom: 19px;
+    }
+    .about-us .history::after {
+        height: auto;
+    }
+    .board-staff {
+        margin-top: 118px;
+    }
+    .board-staff ul li {
+        width: 32.3%;
+        margin-right: 12px;
+    }
+    .board-staff ul li p {
+        line-height: 27px;
+    }
+}
+@media only screen and (max-width: 850px) {
+    .availabilities ul li {
+        margin-bottom: 15px;
+    }
+    .caption {
+        font-size: 18px;
+    }
+    .caption-icon img {
+        height: 40px;
+        width: 40px;
+        margin-top: 40px;
+    }
+    .social-icon img {
+        margin-bottom: 17px;
+    }
+    .social-icon p {
+        margin-top: 7px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .social-icon2 p {
+        margin-top: 2px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .social-icon i,
+    .social-icon2 i {
+        margin-bottom: 11px;
+    }
+    .gallry-img .caption::after {
+        margin-top: 10px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 19px;
+    }
+    .news-press {
+        padding: 60px 0 50px;
+    }
+    .news-press h2 {
+        margin-bottom: 40px;
+    }
+    .news-press ul li {
+        margin-right: 16px;
+        margin-bottom: 16px;
+        width: 31.5%;
+    }
+    h2 {
+        font-size: 31px;
+        line-height: 31px;
+    }
+    .news-press ul li span {
+        margin-top: 15px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .past-grant {
+        padding: 40px 0;
+    }
+    .past-grant h2 {
+        margin-bottom: 30px;
+    }
+    .past-grant .box {
+        width: 48%;
+        margin-right: 30px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 18px;
+        font-size: 17px;
+    }
+    .past-grant .box h4 {
+        font-size: 24px;
+        padding: 13px 0 13px 20px;
+    }
+    .programs {
+        padding-top: 40px;
+    }
+    .programs .programs-right span {
+        font-size: 18px;
+        margin-bottom: 12px;
+        padding: 19px 37px;
+    }
+    .property .property-left {
+        width: 54%;
+    }
+    .property .property-right {
+        width: 42%;
+    }
+    .property .property-right small {
+        font-size: 25px;
+    }
+    .property .property-left .btn {
+        width: 250px;
+    }
+    .caption2 span {
+        margin-bottom: 31px;
+    }
+    .caption2 img {
+        margin-bottom: 5px;
+        margin-top: 12px;
+        height: 44px;
+        width: 44px;
+    }
+    .availabilities ul li span {
+        font-size: 17px;
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    .caption2 {
+        font-size: 35px;
+    }
+    .historic .caption {
+        font-size: 26px;
+    }
+    .banner-inner .caption {
+        font-size: 35px;
+    }
+    .grants {
+        padding: 30px 0 90px;
+    }
+    .grants h2 {
+        margin-bottom: 30px;
+    }
+    .grants img {
+        margin-bottom: 30px;
+    }
+    .projects {
+        padding-top: 70px;
+    }
+    .financials {
+        padding: 50px 0 60px;
+    }
+    .financials h2 {
+        margin-bottom: 25px;
+    }
+    .financials span {
+        font-size: 25px;
+    }
+    .financials p {
+        padding-top: 18px;
+        line-height: 26px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .faq {
+        padding-top: 50px;
+    }
+    .faq ul {
+        padding-top: 30px;
+    }
+    .faq ul li h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    .faq ul li {
+        margin-bottom: 10px;
+    }
+    .faq ul li p {
+        line-height: 22px;
+    }
+    .blog-box .share-box .btn {
+        height: 47px;
+        line-height: 42px;
+        margin: 23px 0;
+        width: 323px;
+        font-size: 20px;
+    }
+    .twitter-box i {
+        font-size: 70px;
+    }
+    .twitter-box p {
+        font-size: 23px;
+    }
+    .blog .social-icon,
+    .social-icon2 {
+        height: 190px;
+    }
+    .blog .social-icon2 i {
+        font-size: 53px;
+        margin-bottom: 12px;
+    }
+    .twitter-box {
+        padding: 28px 0;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 32px;
+        padding-top: 20px;
+    }
+    .availabilities ul {
+        margin-top: 15px;
+    }
+    .architecture-box {
+        padding-top: 21px;
+    }
+    .architecture .caption {
+        font-size: 35px;
+    }
+    .architecture-box3 .caption {
+        font-size: 35px;
+    }
+    .architecture-box3 .caption span {
+        font-size: 22px;
+    }
+    .architecture-box2 .wrapper > div {
+        padding: 11px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        font-size: 22px;
+    }
+    .contact-application .f-col {
+        width: 32.50%;
+    }
+    .rental-application {
+        padding: 40px 0;
+    }
+    .rental-application h2 {
+        padding-bottom: 14px;
+    }
+    .contact-application .f-co3 {
+        width: 45%;
+    }
+    .contact-application .btn {
+        height: 53px;
+        line-height: 57px;
+        width: 184px;
+    }
+    .willard .willard-box {
+        padding: 25px 0;
+    }
+    .willard .willard-box2 {
+        padding: 16px 0 9px;
+    }
+    .willard {
+        padding-bottom: 40px;
+    }
+    .about-us .about-box h2 {
+        margin-bottom: 6px;
+    }
+    .board-staff ul li {
+        width: 32.2%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .social-icon span,
+    .social-icon2 span {
+        font-size: 16px;
+    }
+    .social-icon2 {
+        padding-top: 18px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 17px;
+    }
+    header {
+        padding: 15px 0;
+    }
+    .news-press {
+        padding: 50px 0 40px;
+    }
+    .news-press h2 {
+        margin-bottom: 30px;
+    }
+    .news-press ul li {
+        margin-right: 16px;
+        margin-bottom: 16px;
+        width: 31.5%;
+    }
+    h2 {
+        font-size: 31px;
+        line-height: 31px;
+    }
+    .news-press ul li span {
+        margin-top: 15px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .past-grant {
+        padding: 30px 0;
+    }
+    .past-grant h2 {
+        margin-bottom: 20px;
+    }
+    .past-grant .box {
+        width: 48%;
+        margin-right: 29px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 16px;
+        font-size: 16px;
+    }
+    .past-grant .box h4 {
+        font-size: 22px;
+        padding: 13px 0 13px 17px;
+    }
+    .programs {
+        padding-top: 30px;
+    }
+    .programs .programs-left h2 {
+        margin-bottom: 15px;
+    }
+    .income-limits {
+        width: 78%;
+    }
+    .property .property-left {
+        width: 100%;
+    }
+    .property .property-right {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .property .property-left .btn {
+        width: 230px;
+        font-size: 20px;
+        height: 31px;
+        line-height: 45px;
+        margin-top: 15px;
+    }
+    .galvan_availabilities .slick-dots {
+        bottom: -32px;
+    }
+    .banner-inner {
+        top: 7%;
+    }
+    .historic .caption {
+        font-size: 22px;
+    }
+    .banner-inner .caption {
+        font-size: 30px;
+    }
+    .grants {
+        padding: 30px 0 80px;
+    }
+    .grants h2 {
+        margin-bottom: 25px;
+    }
+    .grants img {
+        margin-bottom: 25px;
+    }
+    .grants-left p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .grants-right .past-grants {
+        padding: 14px 13px 8px;
+    }
+    .grants .btn {
+        width: 268px;
+        margin-top: 25px;
+    }
+    .projects {
+        padding-top: 60px;
+    }
+    .financials {
+        padding: 40px 0 50px;
+    }
+    .financials h2 {
+        margin-bottom: 20px;
+    }
+    .financials span {
+        font-size: 22px;
+    }
+    .financials p {
+        padding-top: 15px;
+        line-height: 23px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .faq {
+        padding-top: 40px;
+    }
+    .faq ul {
+        padding-top: 20px;
+    }
+    .faq ul li h2 {
+        font-size: 21px;
+        margin-bottom: 5px;
+    }
+    .faq ul li {
+        margin-bottom: 10px;
+    }
+    .faq ul li p {
+        line-height: 22px;
+    }
+    .blog-box .share-box .btn {
+        width: 271px;
+    }
+    .twitter-box i {
+        font-size: 63px;
+    }
+    .twitter-box p {
+        font-size: 22px;
+        margin-left: 22px;
+    }
+    .slider-blog .slick-prev,
+    .slider-blog .slick-next {
+        background-size: 20px;
+    }
+    .slider-blog .slick-dots {
+        bottom: -29px;
+    }
+    .blog-box .share-box {
+        padding-top: 12px;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 30px;
+        padding-top: 18px;
+    }
+    .availabilities ul {
+        margin-top: 12px;
+    }
+    .architecture-box {
+        padding-top: 18px;
+    }
+    .architecture .caption {
+        font-size: 30px;
+    }
+    .architecture-box3 .caption {
+        font-size: 30px;
+    }
+    .architecture-box3 .caption span {
+        font-size: 20px;
+    }
+    .architecture-box2 .wrapper > div {
+        padding: 11px;
+    }
+    .contact-banner .contact-from .social a {
+        margin-right: 43px;
+        font-size: 35px;
+    }
+    .willard .willard-box ul li {
+        font-size: 16px;
+    }
+    .willard .willard-box2 ul li img {
+        height: 25px;
+    }
+    .willard .willard-box {
+        padding: 18px 0;
+    }
+    .willard {
+        padding-top: 49px;
+    }
+    .willard .willard-box {
+        margin-top: 17px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .wrapper,
+    .past-grant .wrapper,
+    .property .wrapper,
+    .grants .wrapper,
+    .grant-application .wrapper {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .caption {
+        font-size: 16px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 15px;
+    }
+    .slick-prev {
+        left: 8px;
+    }
+    .slick-next {
+        right: 8px;
+    }
+    .social-icon,
+    .social-icon2 {
+        padding-top: 9px;
+    }
+    .social-icon span,
+    .social-icon2 span {
+        font-size: 15px;
+    }
+    .social-icon p,
+    .social-icon2 p {
+        margin-top: 1px;
+        line-height: 17px;
+        font-size: 13px;
+    }
+    .gallry-img .col6 .caption::after,
+    .gallry-img .caption::after {
+        margin-top: 8px;
+        height: 4px;
+    }
+    .news-press {
+        padding: 40px 0 30px;
+    }
+    .news-press h2 {
+        margin-bottom: 20px;
+    }
+    .news-press ul li {
+        margin-right: 16px;
+        margin-bottom: 16px;
+        width: 31.10%;
+    }
+    h2 {
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .news-press ul li span {
+        margin-top: 11px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .past-grant {
+        padding: 20px 0;
+    }
+    .past-grant h2 {
+        margin-bottom: 10px;
+    }
+    .past-grant .box {
+        width: 48%;
+        margin-right: 24px;
+    }
+    .past-grant .box ul li {
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    .past-grant .box h4 {
+        font-size: 22px;
+        padding: 13px 0 13px 17px;
+    }
+    .programs {
+        padding-top: 20px;
+    }
+    .programs .programs-left {
+        width: 100%;
+    }
+    .programs .programs-right {
+        width: 100%;
+    }
+    .programs .programs-right span {
+        font-size: 17px;
+    }
+    .income-limits h5 {
+        font-size: 22px;
+    }
+    .property {
+        padding: 40px 0 30px;
+    }
+    .property .property-left p {
+        line-height: 28px;
+    }
+    .property .property-left .btn {
+        font-size: 18px;
+        height: 26px;
+        line-height: 39px;
+        margin-top: 9px;
+        width: 190px;
+    }
+    .property .property-right small {
+        font-size: 22px;
+    }
+    .property .property-right ul {
+        margin-top: 17px;
+    }
+    .banner-inner {
+        top: 0;
+    }
+    .caption2 span {
+        margin-bottom: 4px;
+    }
+    .caption2 p {
+        line-height: 26px;
+        font-size: 17px;
+    }
+    .property-box {
+        padding-bottom: 28px;
+    }
+    .availabilities ul li span {
+        font-size: 16px;
+        padding-bottom: 14px;
+    }
+    .availabilities ul li span small {
+        font-size: 14px;
+        padding-top: 5px;
+    }
+    .caption2 {
+        height: 366px;
+    }
+    .historic .caption {
+        font-size: 18px;
+    }
+    .banner-inner .caption p {
+        line-height: 26px;
+    }
+    .banner-inner .caption {
+        font-size: 25px;
+    }
+    .grants {
+        padding: 25px 0 30px;
+    }
+    .grants h2 {
+        margin-bottom: 20px;
+    }
+    .grants img {
+        margin-bottom: 20px;
+    }
+    .grants-left {
+        width: 100%;
+    }
+    .grants-right {
+        width: 100%;
+    }
+    .grants-right .past-grants small {
+        font-size: 25px;
+    }
+    .grants .btn {
+        width: 250px;
+        height: 45px;
+        line-height: 47px;
+        font-size: 20px;
+    }
+    .grants-right span {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+    .grants-left p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .grants .btn {
+        font-size: 18px;
+        height: 38px;
+        line-height: 41px;
+        width: 194px;
+    }
+    .projects {
+        padding-top: 40px;
+    }
+    .financials {
+        padding: 30px 0 40px;
+    }
+    .financials h2 {
+        margin-bottom: 16px;
+    }
+    .financials span {
+        font-size: 21px;
+    }
+    .financials p {
+        padding-top: 13px;
+        line-height: 22px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .faq {
+        padding-top: 30px;
+    }
+    .faq ul li h2 {
+        font-size: 18px;
+    }
+    .faq ul li p {
+        font-size: 15px;
+    }
+    .blog h2 {
+        margin-top: 35px;
+        margin-bottom: 11px;
+    }
+    .blog-box p {
+        line-height: 25px;
+    }
+    .blog-box .share-box small {
+        font-size: 16px;
+    }
+    .blog .social-icon,
+    .social-icon2 {
+        height: 177px;
+    }
+    .twitter-box p {
+        font-size: 18px;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 27px;
+        padding-top: 15px;
+    }
+    .availabilities ul {
+        margin-top: 11px;
+    }
+    .architecture .caption span {
+        font-size: 22px;
+    }
+    .architecture-box3 .caption {
+        font-size: 27px;
+    }
+    .architecture-box2 .wrapper > div {
+        padding: 8px;
+    }
+    .contact-banner .contact-from .from-box {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .contact-banner .contact-from .from-box .f-col {
+        width: 31.7%;
+    }
+    .contact-banner .contact-from .from-box .f-col input[type="text"],
+    .f-co2 textarea {
+        font-size: 17px;
+    }
+    .contact-banner .contact-from .from-box .f-co2 textarea {
+        height: 161px;
+    }
+    .contact-banner .contact-from .from-box .btn {
+        margin-top: 0;
+    }
+    .contact-banner .contact-from .from-box .f-co3 {
+        margin-top: 7px;
+    }
+    .contact-banner .contact-from {
+        height: 410px;
+    }
+    .grant-application {
+        padding-top: 18px;
+    }
+    .grant-application h2 {
+        padding-bottom: 4px;
+    }
+    .grant-application p {
+        line-height: 27px;
+    }
+    .frequently_aw_form .row {
+        margin: 0 -14px 15px;
+    }
+    .contact-application .f-col {
+        width: 100%;
+    }
+    .contact-application textarea {
+        height: 125px;
+    }
+    .contact-application .btn {
+        margin-top: 10px;
+    }
+    .rental-application {
+        padding: 30px 0;
+    }
+    .rental-application p {
+        line-height: 27px;
+    }
+    .contact-application input[type="text"] {
+        height: 46px;
+        padding: 0 14px;
+    }
+    .contact-application select {
+        height: 46px;
+        padding: 0 14px;
+    }
+    .contact-application .f-co2,
+    .contact-application .f-co3,
+    .contact-application .f-co4,
+    .contact-application .f-co5 {
+        width: 100%;
+    }
+    .rental-application .wrapper {
+        padding: 0 10px;
+    }
+    .willard .willard-box ul li {
+        font-size: 13px;
+    }
+    .willard {
+        padding-bottom: 25px;
+    }
+    .willard .willard-box ul li {
+        width: 100%;
+        text-align: left;
+        line-height: 37px;
+    }
+    .willard .willard-box {
+        width: 26%;
+        padding: 0;
+    }
+    .willard .willard-box2 {
+        width: 74%;
+        float: right;
+    }
+    .willard .willard-box2 ul li {
+        width: 13%;
+    }
+    .willard .willard-box2 ul li img {
+        height: 20px;
+    }
+    .willard .willard-box ul li:nth-child(3n) {
+        line-height: 54px;
+    }
+    .willard .willard-box ul li:nth-child(4n) {
+        line-height: 50px;
+    }
+    .willard .willard-box ul li:nth-child(5n) {
+        line-height: 45px;
+    }
+    .willard .willard-box .wrapper,
+    .willard .willard-box2 .wrapper {
+        padding: 0 3px;
+    }
+    .board-staff ul li {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .board-staff ul li p {
+        text-align: center;
+    }
+    .about-us .history::after {
+        display: none;
+    }
+    .board-staff {
+        margin-top: 15px;
+    }
+    .board-staff ul {
+        padding-top: 25px;
+    }
+    .social-icon i {
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 639px) {
+    .caption {
+        font-size: 14px;
+    }
+    .slick-prev,
+    .slick-next {
+        background-size: 13px;
+    }
+    .caption-icon img {
+        height: 36px;
+        width: 36px;
+        margin-top: 35px;
+    }
+    .caption-icon span {
+        padding-top: 5px;
+    }
+    .caption-icon span::after {
+        margin-top: 4px;
+        width: 53px;
+        height: 4px;
+    }
+    .col4,
+    .col6 {
+        width: 100%;
+    }
+    .social-icon,
+    .social-icon2 {
+        height: 176px;
+    }
+    .news-press {
+        padding: 30px 0 20px;
+    }
+    .news-press h2 {
+        margin-bottom: 10px;
+    }
+    .news-press ul li {
+        margin-right: 0;
+        margin-bottom: 10px;
+        width: 32.70%;
+    }
+    h2 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .news-press ul li span {
+        margin-top: 11px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .past-grant .box {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .past-grant .box h4 {
+        font-size: 18px;
+        padding: 10px 0 10px 13px;
+        margin-bottom: 10px;
+    }
+    .programs .programs-left p {
+        margin-bottom: 10px;
+    }
+    .programs .programs-left .box ul li {
+        line-height: 22px;
+    }
+    .property {
+        padding-bottom: 20px;
+    }
+    .property .property-right {
+        padding-top: 12px;
+    }
+    .property .property-right small {
+        font-size: 20px;
+    }
+    .property .property-left .btn {
+        font-size: 16px;
+        line-height: 35px;
+        height: 23px;
+    }
+    .caption2 {
+        font-size: 25px;
+    }
+    .caption2 p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .banner-inner {
+        top: 1%;
+    }
+    .caption2 img {
+        height: 30px;
+        width: 30px;
+        margin-bottom: 2px;
+        margin-top: 5px;
+    }
+    .historic .caption {
+        font-size: 15px;
+    }
+    .banner-inner .caption p {
+        line-height: 18px;
+        font-size: 14px;
+    }
+    .banner-inner img {
+        margin-top: 3px;
+        width: 32px;
+        height: 32px;
+    }
+    .banner-inner .caption {
+        font-size: 20px;
+    }
+    .caption p {
+        font-size: 13px;
+    }
+    .grants-right .past-grants small {
+        font-size: 22px;
+    }
+    .grants {
+        padding: 20px 0 20px;
+    }
+    .projects {
+        padding-top: 30px;
+    }
+    .financials {
+        padding: 20px 0;
+    }
+    .financials h2 {
+        margin-bottom: 12px;
+    }
+    .financials span {
+        font-size: 21px;
+    }
+    .financials p {
+        padding-top: 11px;
+        line-height: 21px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .faq {
+        padding-top: 20px;
+    }
+    .faq ul li h2 {
+        font-size: 16px;
+    }
+    .faq ul li p {
+        font-size: 14px;
+    }
+    .faq ul {
+        padding-top: 10px;
+    }
+    .slider-blog .slick-prev,
+    .slider-blog .slick-next {
+        background-size: 18px;
+    }
+    .blog-box .share-box .btn {
+        width: 195px;
+        height: 38px;
+        line-height: 34px;
+        font-size: 16px;
+    }
+    .twitter-box p {
+        font-size: 14px;
+        margin-left: 8px;
+        line-height: 20px;
+    }
+    .twitter-box i {
+        font-size: 35px;
+    }
+    .twitter-box {
+        padding: 15px 0;
+    }
+    .availabilities {
+        padding: 0;
+    }
+    .availabilities p {
+        line-height: 24px;
+        padding-top: 11px;
+    }
+    .availabilities ul {
+        margin-top: 10px;
+    }
+    .architecture .caption span {
+        font-size: 20px;
+    }
+    .architecture .caption {
+        font-size: 25px;
+    }
+    .architecture-box2 .wrapper > div {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .architecture-box3 .caption {
+        font-size: 24px;
+    }
+    .architecture-box3 .caption span {
+        font-size: 18px;
+    }
+    .contact-banner .contact-from .social a {
+        font-size: 29px;
+        margin-right: 27px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        font-size: 18px;
+        margin-bottom: 19px;
+        padding-top: 17px;
+    }
+    .contact-banner .contact-from .from-box .f-col {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .contact-banner .contact-from .from-box .f-col:nth-child(4n) {
+        margin-bottom: 0;
+    }
+    .contact-banner .contact-from .from-box .f-col input[type="text"],
+    .f-co2 textarea {
+        height: 35px;
+        font-size: 14px;
+    }
+    .contact-banner .contact-from {
+        height: 349px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        padding-top: 9px;
+        margin-bottom: 9px;
+    }
+    .contact-banner .contact-from .from-box .f-co2 textarea {
+        height: 88px;
+        margin-bottom: 10px;
+    }
+    .contact-banner .contact-from .from-box .f-co3 {
+        width: auto;
+    }
+    .contact-banner .contact-from .from-box .f-co3 span {
+        font-size: 16px;
+    }
+    .frequently_aw_form .row .col4,
+    .frequently_aw_form .row .col5,
+    .frequently_aw_form .row .col7,
+    .frequently_aw_form .row .col6 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .frequently_aw_form textarea {
+        height: 138px;
+        padding: 16px;
+    }
+    .frequently_aw_form .submit {
+        height: 55px;
+        line-height: 59px;
+        margin-top: 15px;
+        width: 195px;
+    }
+    .frequently_aw_form input[type="text"],
+    .frequently_aw_form {
+        height: 45px;
+        padding: 0 16px;
+    }
+    .frequently_aw_form .custom-upload {
+        padding: 13px 19px;
+        width: 110px;
+    }
+    .contact-application .btn {
+        height: 46px;
+        line-height: 48px;
+        width: 147px;
+    }
+    .rental-application {
+        padding: 20px 0;
+    }
+    .social-icon3 {
+        height: 218px !important;
+    }
+    .architecture-box2 {
+        padding-bottom: 15px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .slider-section .caption {
+        display: none;
+    }
+    .caption-icon {
+        height: 113px;
+    }
+    .news-press {
+        padding: 20px 0;
+    }
+    .news-press h2 {
+        margin-bottom: 10px;
+    }
+    .news-press ul li {
+        margin-right: 0;
+        padding-bottom: 20px;
+        width: 100%;
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+    h2 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .news-press ul li span {
+        margin-top: 9px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .income-limits {
+        width: 100%;
+    }
+    .programs .programs-right span {
+        padding: 11px 26px;
+        font-size: 15px;
+    }
+    .caption2 p {
+        display: none;
+    }
+    .banner-inner {
+        top: 32%;
+    }
+    .caption2 {
+        height: 135px;
+    }
+    .availabilities ul li {
+        width: 100%;
+        margin-right: 0;
+    }
+    .historic .caption {
+        font-size: 14px;
+    }
+    .banner-inner .caption p {
+        display: none;
+    }
+    .banner-inner img {
+        display: block;
+        margin: 3px auto 0;
+    }
+    .projects {
+        padding-top: 20px;
+    }
+    .financials span {
+        font-size: 17px;
+    }
+    .slider-blog .slick-prev,
+    .slider-blog .slick-next {
+        top: 29%;
+    }
+    .twitter-box p {
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .twitter-box i {
+        float: none;
+        text-align: center;
+        display: block;
+    }
+    .availabilities {
+        padding: 10px 0;
+    }
+    .architecture-box3 .caption {
+        font-size: 20px;
+    }
+    .architecture .caption span {
+        font-size: 17px;
+    }
+    .contact-banner .contact-from .from-box .f-co3 {
+        width: 100%;
+    }
+    .contact-banner {
+        overflow: hidden;
+    }
+    .contact-banner .contact-from {
+        height: 374px;
+    }
+    .contact-banner img {
+        margin-left: -13%;
+        max-width: none;
+        width: 163%;
+        text-align: center;
+    }
+    .contact-banner .contact-from .from-box .btn {
+        float: left;
+        margin-top: 10px;
+        width: 102px;
+        line-height: 30px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .contact-banner .contact-from .social a {
+        font-size: 22px;
+        margin-right: 16px;
+    }
+    .contact-banner .contact-from .from-box .f-co3 span {
+        font-size: 13px;
+    }
+    .contact-banner .contact-from .from-box strong {
+        font-size: 15px;
+    }
+    .grant-application p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .grant-application .btn {
+        height: 40px;
+        line-height: 36px;
+        width: 209px;
+        font-size: 13px;
+    }
+    .frequently_aw_form .submit {
+        height: 46px;
+        line-height: 46px;
+        margin-top: 8px;
+        width: 174px;
+    }
+    .frequently_aw_form {
+        margin-bottom: 10px;
+    }
+    .willard .willard-box2 ul li {
+        font-size: 13px;
+    }
+    .willard .willard-box ul li {
+        font-size: 12px;
+    }
+    .willard .willard-box {
+        width: 30%;
+    }
+    .willard .willard-box2 {
+        width: 70%;
+    }
+    .willard .willard-box2 ul li img {
+        height: 16px;
+    }
+    .willard .willard-box2 {
+        padding: 14px 0 9px;
+    }
+    .willard {
+        padding-bottom: 0;
+    }
+    .about-us {
+        padding-bottom: 0;
+    }
+    .scroll_down {
+        display: block;
+    }
+}
