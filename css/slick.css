@@ -67,7 +67,8 @@
 	margin-top: 20px;
 }
 
-.grants-lead-img{
+.grants-lead-img, 
+.about-lead-img{
 	max-height: 500px;
 	width: auto;
 	display: block;
