@@ -554,9 +554,12 @@ ul.property-box2{margin-top:44px;}
     margin-bottom: 10px;
 }
 
-.board-staff .additional-leadership__item p,
-.about-us .history .list p{
+.board-staff .additional-leadership__item p{
     margin: 0px;
+}
+
+.about-us .history .list p{
+    padding: 0px;
 }
 
 .slick-slide .caption{
