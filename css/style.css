@@ -554,7 +554,8 @@ ul.property-box2{margin-top:44px;}
     margin-bottom: 10px;
 }
 
-.additional-leadership__item p{
+.board-staff .additional-leadership__item p,
+.about-us .history .list p{
     margin: 0px;
 }
 
